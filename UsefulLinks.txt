@@ -1,0 +1,10 @@
+
+LEDs explained:
+(And Volt, Ohm, etc.)
+https://learn.adafruit.com/all-about-leds/what-are-leds-used-for?view=all
+
+Ongoing Tutorial:
+https://learn.adafruit.com/adafruit-arduino-lesson-2-leds
+
+Calculate 5 Band Resistor Values:
+https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-5-band
